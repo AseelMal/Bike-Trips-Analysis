@@ -1,5 +1,5 @@
 # Bike-Trips-Analysis
-In this project, I analyzed a data that containing bike trips / rides from the years 2019, 2020, and 2021. I cleaned the data, created Dax equations, performed data modeling, and created interactive visualizations and dashboards. 
+In this project, I analyzed a data that containing bike trips / rides from the years 2019, 2020, and 2021. I cleaned the data, created Dax equations, performed data modeling, and created interactive visualizations and dashboards using Power BI.
 
 A video of the dashboard is attached.
 
