@@ -1,9 +1,36 @@
-# Bike-Trips-Analysis
-In this project, I analyzed a data that containing bike trips / rides from the years 2019, 2020, and 2021. I cleaned the data, created Dax equations, performed data modeling, and created interactive visualizations and dashboards using Power BI.
+# Bike Trips Analysis
+This project analyzes bike trip data from 2019, 2020, and 2021, focusing on the number of trips, trip duration, user demographics, and rideable types. Using PowerBI, I cleaned the data, created DAX equations, performed data modeling, and developed interactive visualizations and dashboards to uncover insights.
 
-A video of the dashboard is attached.
+📌 Key Features
 
-The dashboard conains two pages as follows:
+1. Comprehensive Yearly Analysis:
+   - 2019: Line chart showing the number of trips.
+   - 2020: Line chart for trips.
+   - 2021: Line chart for trips.
+
+2. Detailed Trip Duration Insights:
+   - Clustered column chart analyzing the number of trips by trip duration.
+   - Clustered bar chart for trips by rideable type.
+
+3. User Demographics and Preferences:
+   - Donut chart showing the percentage of trips by member or casual status.
+   - Slicers for gender, user type, rider category, and age or birth year.
+
+4. Station Performance Metrics:
+   - Matrix chart detailing the number of trips by start and end stations for 2021.
+
+
+📌 Built with:
+
+- Power BI Desktop
+- Excel
+
+
+📌 Showcase:
+
+- Interactive Dashboard Link: https://1drv.ms/u/s!Ag7cWaCK95NTnizmhILl0ewnSi9I?e=TJOW0f
+  
+- Screenshot:
 
 ![Dashboard page 1](https://github.com/AseelMal/Bike-Trips-Analysis/assets/156844897/db8d17c5-6ae0-4f6d-80e5-ecc92f0dca05)
 
