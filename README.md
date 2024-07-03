@@ -1,5 +1,5 @@
 # Bike Trips Analysis
-This project analyzes bike trip data from 2019, 2020, and 2021, focusing on the number of trips, trip duration, user demographics, and rideable types. Using PowerBI, I cleaned the data, created DAX equations, performed data modeling, and developed interactive visualizations and dashboards to uncover insights.
+This project analyzes bike trips data from 2019, 2020, and 2021, focusing on the number of trips, trip duration, user demographics, and rideable types. Using PowerBI, I cleaned the data, created DAX equations, performed data modeling, and developed interactive visualizations and dashboards to uncover insights.
 
 📌 Key Features
 
